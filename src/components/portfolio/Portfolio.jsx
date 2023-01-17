@@ -2,8 +2,8 @@ import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/eventix.png'
 import IMG2 from '../../assets/countries.png'
-import IMG3 from '../../assets/eventix.png'
-import IMG4 from '../../assets/eventix.png'
+import IMG3 from '../../assets/pokemons.png'
+import IMG4 from '../../assets/todoapp.png'
 
 export default function Portfolio() {
   return (
@@ -29,8 +29,8 @@ export default function Portfolio() {
           </div>
             <h3>Countries</h3>
             <div className="portfolio__item-cta">
-            <a href="https://github.com" className='btn' target='_blank' rel="noreferrer">Github</a>
-            <a href="https://github.com" className='btn btn-primary' target='_blank' rel="noreferrer">No Deploy</a>
+            <a href="https://github.com/Marcosvilaobarrio/BACKEND-COUNTRIES" className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href="https://github.com/Marcosvilaobarrio/FRONTEND-COUNTRIES" className='btn btn-primary' target='_blank' rel="noreferrer">No Deploy</a>
             </div>
           
         </article>
@@ -40,8 +40,8 @@ export default function Portfolio() {
           </div>
             <h3>Pokemons</h3>
             <div className="portfolio__item-cta">
-            <a href="https://github.com" className='btn' target='_blank' rel="noreferrer">Github</a>
-            <a href="https://github.com" className='btn btn-primary' target='_blank' rel="noreferrer">No Deploy</a>
+            <a href="https://github.com/Marcosvilaobarrio/PI-POKEMON" className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href="https://github.com/Marcosvilaobarrio/PI-POKEMON" className='btn btn-primary' target='_blank' rel="noreferrer">No Deploy</a>
             </div>
           
         </article>
@@ -51,8 +51,8 @@ export default function Portfolio() {
           </div>
             <h3>To do App</h3>
             <div className="portfolio__item-cta">
-            <a href="https://github.com" className='btn' target='_blank' rel="noreferrer">Github</a>
-            <a href="https://github.com" className='btn btn-primary' target='_blank' rel="noreferrer">No Deploy</a>
+            <a href="https://github.com/Marcosvilaobarrio/ToDoApp" className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href="https://github.com/Marcosvilaobarrio/ToDoApp" className='btn btn-primary' target='_blank' rel="noreferrer">No Deploy</a>
             </div>
           
         </article>
