@@ -22,7 +22,7 @@ export default function About() {
           <div className="about__cards">
             <article className='about__card'>
               <FaAward className='about__icon'/>
-              <h5>Experience</h5>
+              <h5>Financial Experience</h5>
               <small>5+ Years Working</small>
             </article>
             <article className='about__card'>
@@ -33,19 +33,18 @@ export default function About() {
             <article className='about__card'>
               <AiFillProject className='about__icon'/>
               <h5>Projects</h5>
-              <small>3+ Completed Projects</small>
+              <small>4+ Completed Projects</small>
             </article>
           </div>
 
           <p>
-          I am a fullstack developer with a lot of passion for web 
-          development and mobile applications. I have a charismatic 
-          profile and am constantly looking for ways to progress in 
-          my career. I have five years of work experience as a business 
-          manager, which has given me a solid foundation in leadership 
-          skills and project management. I am committed to providing 
-          high-quality solutions and working as a team to achieve the 
-          goals of my clients and companies.
+          Hello, my name is Marcos. I am 26 years old. 
+          I graduated in Business Administration and 
+          worked in the finance area for 5 years. 
+          My last experience was at Price Waterhouse Coopers. 
+          During that process, I learned to work in a team, 
+          adapt and be reliable. Today, I want to learn from 
+          a good boss in the world of web/app development.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
